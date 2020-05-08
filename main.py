@@ -1,6 +1,4 @@
-# Some part of the code was referenced from below.
-
-# https://github.com/pytorch/examples/tree/master/word_language_model
+# The following code is modified from https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/language_model
 
 import torch
 
